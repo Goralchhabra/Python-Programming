@@ -1,0 +1,9 @@
+how to use git hub in vs code means how to push 
+git init (initialing empty depositery)
+git remote add origin (add the link)
+
+when u make a new file  > git status (see how many files are there )
+>git add (name of file) single file 
+>git add. (use this to add all files)
+>git commit -m "i added even.py"
+>git push
